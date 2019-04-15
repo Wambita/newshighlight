@@ -1,8 +1,8 @@
 # News Highlighter
 
-#### An app for the week 4 project,
+#### This is a project that has news on various topics where the user can view te highlights and select news to view them in  a different tab
 
-11/13/2018
+13/04/2019
 
 #### By **Wambita**
 
