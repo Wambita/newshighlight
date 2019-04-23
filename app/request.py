@@ -14,7 +14,7 @@ def configure_request(app):
         app: The flask app instance
     """
     global api_key, newsapi
-    api_key = app.config['NEWS_API_KEY']
+    api_key = app.config['.112']
     newsapi = NewsApiClient(api_key = api_key)
     
 def get_sources(category):
