@@ -1,3 +1,5 @@
+
+
 class Source:
     """
         Source class that defines a news source objects.
